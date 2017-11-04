@@ -41,15 +41,9 @@
 			<scope>test</scope>
 		</dependency>
 		<dependency>
-			<groupId>com.jjm</groupId>
+			<groupId>cn.jjm</groupId>
 			<artifactId>monitor-spring-boot-starter</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
-
-		<dependency>
-			<groupId>com.mhc</groupId>
-			<artifactId>ambulance-spring-boot-starter</artifactId>
-			<version>0.0.2</version>
 		</dependency>
 	</dependencies>
 
